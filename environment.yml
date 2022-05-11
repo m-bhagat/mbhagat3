@@ -8,7 +8,6 @@ dependencies:
   - geopandas
   - ipyleaflet
   - ipywidgets
-  - datetime
   - bqplot
   - seaborn
   - cartopy
